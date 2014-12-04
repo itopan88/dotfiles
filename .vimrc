@@ -88,7 +88,7 @@ set number
 set showmatch
 
 " 改行時に前の行のインデントを継続する
-"set autoindent
+set autoindent
 
 " 改行時に入力された行の末尾に合わせて次の行のインデントを増減する
 set smartindent
@@ -113,3 +113,6 @@ colorscheme desert
 
 " 行番号の色
 highlight LineNr ctermfg=darkyellow
+
+" ペースト時にインデントでずれない
+set paste
