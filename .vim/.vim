@@ -1,0 +1,1 @@
+/Users/takaito/dotfiles/.vim
