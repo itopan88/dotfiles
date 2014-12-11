@@ -8,5 +8,5 @@ git clone --recursive https://github.com/itopan88/dotfiles.git
 cd dotfiles
 git submodule init
 git submodule update
-bash dotfilsLink.sh
+bash dotfilesLink.sh
 ```
