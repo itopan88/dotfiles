@@ -2,10 +2,11 @@
 This is my dotfiles
 
 #use
-```
+```bash:bash
 cd ~
-git clone https://github.com/itopan88/dotfiles.git
+git clone --recursive https://github.com/itopan88/dotfiles.git
 cd dotfiles
-chmod +x dotfilsLink.sh
-bash ./dotfilsLink.sh
+git submodule init
+git submodule update
+bash dotfilsLink.sh
 ```
