@@ -33,8 +33,9 @@ filetype plugin indent on
 " this will conveniently prompt you to install them.
 NeoBundleCheck
 
+
 """""""""""""""""""""""""""""""
-" プラグインのセットアップ
+" 設定 
 """""""""""""""""""""""""""""""
 " スワップファイルは使わない
 set noswapfile
@@ -116,3 +117,7 @@ highlight LineNr ctermfg=darkyellow
 
 " ペースト時にインデントでずれない
 set paste
+
+"TAB,EOFなどを可視化する
+"set list
+"set listchars=tab:>-,extends:<,trail:-,eol:<

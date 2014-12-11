@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/Users/takaito/opt/elasticsearch/config'
 let g:netrw_dirhist_2='/Users/takaito/Vagrant/opscode-centos-6.5/cookbooks/apache/recipe'
 let g:netrw_dirhist_3='/Users/takaito/dotfiles'
+let g:netrw_dirhist_4='/Users/takaito/dotfiles/.vim/bundle/neobundle.vim'
