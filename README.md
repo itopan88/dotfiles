@@ -1,7 +1,7 @@
 #Intro
 This is my dotfiles
 
-#use
+#Use
 ```bash:bash
 cd ~
 git clone --recursive https://github.com/itopan88/dotfiles.git
